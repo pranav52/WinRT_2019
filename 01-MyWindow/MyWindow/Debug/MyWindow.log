@@ -1,0 +1,3 @@
+﻿  MyWindow.cpp
+c:\users\maverick\source\repos\mywindow\mywindow\mywindow.cpp(57): warning C4101: 'str': unreferenced local variable
+  MyWindow.vcxproj -> C:\Users\Maverick\source\repos\MyWindow\Debug\MyWindow.exe
