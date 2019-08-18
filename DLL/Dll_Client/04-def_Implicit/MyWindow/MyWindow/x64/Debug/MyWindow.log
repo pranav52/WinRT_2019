@@ -1,0 +1,5 @@
+﻿  MyMath.cpp
+c:\users\maverick\source\repos\dll\dll_client\04-def_implicit\mywindow\mywindow\mymath.cpp(70): warning C4002: too many arguments for function-like macro invocation 'TEXT'
+MyMath.obj : error LNK2019: unresolved external symbol Makesquare referenced in function "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z)
+02-dll_Def.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Maverick\source\repos\DLL\Dll_Client\04-def_Implicit\MyWindow\x64\Debug\MyWindow.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,3 @@
+LIBRARY  02-dll_Def
+EXPORTS 
+		MakeSquare
