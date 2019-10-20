@@ -1,0 +1,4 @@
+LIBRARY ClassFactory-DllSever 
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE

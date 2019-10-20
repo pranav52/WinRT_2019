@@ -1,0 +1,3 @@
+﻿     Creating library C:\Users\Pranav\source\repos\DllServerClassFactory\x64\Debug\DllServerClassFactory.lib and object C:\Users\Pranav\source\repos\DllServerClassFactory\x64\Debug\DllServerClassFactory.exp
+DllServerClassFactory.exp : warning LNK4070: /OUT:ClassFactory-DllSever.dll directive in .EXP differs from output filename 'C:\Users\Pranav\source\repos\DllServerClassFactory\x64\Debug\DllServerClassFactory.dll'; ignoring directive
+  DllServerClassFactory.vcxproj -> C:\Users\Pranav\source\repos\DllServerClassFactory\x64\Debug\DllServerClassFactory.dll
